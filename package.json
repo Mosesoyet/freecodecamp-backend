@@ -9,7 +9,12 @@
 	},
 	"repository": {
 		"type": "git",
-		"url": "https://idontknow/todo.git"
+		"url": "https://github.com/Mosesoyet/freecodecamp-backend.git"
 	},
-	"author": "Moses Oyet"
+	"author": {
+		"name": "Moses Oyet",
+		"age": "23",
+		"email": "trickmaxillar@gmail.com",
+		"tel": "+211925940764"
+	}
 }
