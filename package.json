@@ -20,5 +20,6 @@
 	},
 	"description": "A project by freecodecamp to understand backend development",
 	"keywords": ["freecodecamp", "solo", "backend"],
-	"license": "MIT"
+	"license": "MIT",
+	"version": "18.5.5"
 }
