@@ -18,5 +18,6 @@
 			"tel": "+211925940764"
 		}
 	},
-	"description": "A project by freecodecamp to understand backend development"
+	"description": "A project by freecodecamp to understand backend development",
+	"keywords": ["freecodecamp", "solo", "backend"]
 }
