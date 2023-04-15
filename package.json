@@ -19,5 +19,6 @@
 		}
 	},
 	"description": "A project by freecodecamp to understand backend development",
-	"keywords": ["freecodecamp", "solo", "backend"]
+	"keywords": ["freecodecamp", "solo", "backend"],
+	"license": "MIT"
 }
